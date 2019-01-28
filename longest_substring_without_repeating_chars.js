@@ -3,10 +3,6 @@
  * @return {number}
  */
 
-function updateSub(set, char){
-    
-}
-
 var lengthOfLongestSubstring = function(s) {
     let longest = "";
     let chars = new Set();
