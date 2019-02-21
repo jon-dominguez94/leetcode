@@ -14,7 +14,8 @@ function bc(n, k){
     }
   }
 
+  console.log(coeffs);
   return coeffs[n][k];
 }
 
-console.log(bc(4,2));
+console.log(bc(5,3));
